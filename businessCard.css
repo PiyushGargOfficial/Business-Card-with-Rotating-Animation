@@ -7,7 +7,7 @@
 }
 
 body {
-    background: url(redSunset.jpg) no-repeat;
+    background: url(redSunset.jpg') no-repeat;
     background-size: cover;
     background-position: center center;
 
